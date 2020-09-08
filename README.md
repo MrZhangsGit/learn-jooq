@@ -1,3 +1,5 @@
+ jOOQ系列教程：https://jooq.diamondfsd.com/
+
 ## jOOQ 系列教程源码
 
 - section-1  如何开始jOOQ
